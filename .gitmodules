@@ -13,3 +13,6 @@
 [submodule "OurModels/EpiFNP"]
 	path = OurModels/EpiFNP
 	url = https://github.com/AdityaLab/EpiFNP.git
+[submodule "OurModels/EINNs"]
+	path = OurModels/EINNs
+	url = https://github.com/AdityaLab/EINNs.git
