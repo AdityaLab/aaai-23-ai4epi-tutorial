@@ -1,0 +1,15 @@
+[submodule "OurModels/CAMul"]
+	path = OurModels/CAMul
+	url = https://github.com/AdityaLab/CAMul.git
+[submodule "OurModels/Back2Future"]
+	path = OurModels/Back2Future
+	url = https://github.com/AdityaLab/Back2Future.git
+[submodule "OurModels/CALI-Net"]
+	path = OurModels/CALI-Net
+	url = https://github.com/AdityaLab/CALI-Net.git
+[submodule "OurModels/GradABM"]
+	path = OurModels/GradABM
+	url = https://github.com/AdityaLab/GradABM.git
+[submodule "OurModels/EpiFNP"]
+	path = OurModels/EpiFNP
+	url = https://github.com/AdityaLab/EpiFNP.git
