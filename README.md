@@ -1,6 +1,10 @@
-# KDD22 Tutorial Data-Centric Epidemic Forecasting 
+# KDD22 Tutorial: Data-Centric Epidemic Forecasting 
 
 Survey paper companion: [PDF](https://arxiv.org/abs/2207.09370)
+
+Slides PART 1: [PDF](/part1.pdf)
+
+Slides PART 2: [PDF](/part2.pdf)
 
 Website: [adityalab.cc.gatech.edu/talks/22-kdd-epi-tutorial.html](https://adityalab.cc.gatech.edu/talks/22-kdd-epi-tutorial.html)
 
