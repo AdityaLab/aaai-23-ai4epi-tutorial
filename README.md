@@ -8,13 +8,13 @@ Slides PART 2: [PDF](https://github.com/AdityaLab/kdd-22-epi-tutorial/part2.pdf)
 
 Website: [adityalab.cc.gatech.edu/talks/22-kdd-epi-tutorial.html](https://adityalab.cc.gatech.edu/talks/22-kdd-epi-tutorial.html)
 
-## Tutorial Abstract
+## Tutorial abstract
 
 The recent COVID-19 pandemic has brought forth the importance of epidemic forecasting to equip decision makers in multiple domains, ranging from public health to economics. However, forecasting the epidemic progression remains a non-trivial task as the spread of diseases is subject to multiple confounding factors spanning human behavior, pathogen dynamics, weather and environmental conditions, etc. Research interest has been fueled by the increased availability of rich data sources capturing previously unobservable facets of the epidemic spread and initiatives from government public health and funding agencies like forecasting challenges, symposia, and funding calls. This has resulted in a spate of work covering different aspects of epidemic forecasting. In particular, data-centered solutions have shown potential in enhancing our forecasting capabilities by leveraging non-traditional data sources as well as recent innovations in AI and machine learning. 
 
 This tutorial will delve into various data-driven methodological and practical advancements. First, we will enumerate epidemiological datasets and novel data streams that are relevant to epidemic forecasting capturing various factors like symptomatic online surveys, retail and commerce, mobility and genomics data. Next, we discuss methods and modeling paradigms with a focus on the recent data-driven statistical and deep-learning based methods as well as novel class of hybrid models that combine domain knowledge of mechanistic models with the effectiveness and flexibility of statistical approaches. We also discuss experiences and challenges that arise in real-world deployment of these forecasting systems including decision-making informed by forecasts. Finally, we highlight some challenges and open problems found across the forecasting pipeline.
 
-## Tutorial Outline
+## Tutorial outline
 
 1. **Overview of Epidemic Forecasting.**
 We provide a brief introduction and various examples to motivate the impact and importance of epidemic forecasting. Then, we formalize various problems associated with epidemic forecasting including common targets and their temporal and spatial scales. We also discuss some evaluation metrics for each of the tasks and how they are connected with decisions. We will go over a variety of relevant datasets used including traditional clinical surveillance indicators like case rates, recent digital data streams like social media, online surveys as well as novel relatively unexplored sources like wastewater samples and genomics. 
@@ -34,7 +34,7 @@ We discuss various important collaborative initiatives to further research and p
 
 6. **Closing remarks**
 
-## Bio of Lecturers
+## Bio of presenters
 
 **[Alexander Rodríguez](https://sites.cc.gatech.edu/~acastillo41/)** is a PhD student in the College of Computing at Georgia Tech. He received a M.S. in Data Science from the University of Oklahoma, and a B.S. in Mechatronics Engineering from the National University of Engineering, Peru. His research interests include data science and AI, with emphasis on time-series and real-world networks problems motivated from epidemiology and community resilience. In response to COVID-19, he has been the student lead at his research group in forecasting the progression of the pandemic, and these predictions have been featured in the CDC’s website and FiveThirtyEight.com. His work has led to publications in AAAI, NeurIPS, ICLR, WWW, and BigData and was awarded the 1st place in the Facebook/CMU COVID-19 Challenge and the 2nd place in the C3.ai COVID-19 Grand Challenge. He has also served as organizer/PC chair of multiple symposiums and workshops including BPDM @ KDD 2017 and epiDAMIK @ KDD 2021. The University of Chicago Data Science Institute named him a ‘Rising Star in Data Science’ in 2021.
 
