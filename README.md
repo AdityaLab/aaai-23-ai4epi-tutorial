@@ -16,20 +16,20 @@ This tutorial will delve into various data-driven methodological and practical a
 
 ## Tutorial Outline
 
-1. **Overview of Epidemic Forecasting. **
+1. **Overview of Epidemic Forecasting.**
 We provide a brief introduction and various examples to motivate the impact and importance of epidemic forecasting. Then, we formalize various problems associated with epidemic forecasting including common targets and their temporal and spatial scales. We also discuss some evaluation metrics for each of the tasks and how they are connected with decisions. We will go over a variety of relevant datasets used including traditional clinical surveillance indicators like case rates, recent digital data streams like social media, online surveys as well as novel relatively unexplored sources like wastewater samples and genomics. 
 This section will be structured as follows: (1) Task and targets; (2) Datasets; (3) Evaluation.
 
-2. **Mechanistic models. **
+2. **Mechanistic models.**
 We go over the past literature on traditional and recent mechanistic models that encode mechanisms of epidemic spread. Mass-Action compartment models model movement of individuals across compartments via an ODE. We also look at metapopulation models that have more-fine grained modeling of heterogeneity in population and incorporate information such as human behavior and mobility. We finally look at agent-based models that simulate individuals' behaviors and their relations via contact networks. This section will be structured as follows: (1) Mass-action; (2) Metapopulation; (3) Agent-based.
 
-3. **Statistical models. ** 
+3. **Statistical models.** 
 In this part of the tutorial, we discuss the influential and state-of-art statistical and deep learning models that have shown effectiveness and flexibility to leverage a wide variety of data sources including online search queries, text from social media as well as satellite images. We go over various regression approaches starting with linear regression models and discussing complex and hierarchical regression methods. We then focus on leveraging recent advances in deep learning to learn from large datasets with high dimensional feature space and learn rich feature representation and incorporate multimodal data and spatio-temporal structures. We finally discuss traditional and neural-based density estimation models that learn distribution over forecast targets and help deal with quantifying uncertainty. This section will be structured as follows: (1) Regression; (2) Language and vision; (3) Deep learning; (4) Density estimation.
 
-4. **Hybrid models. **
+4. **Hybrid models.**
 We discuss various paradigms of hybrid models that incorporate expert priors of mechanistic models with flexible learning power of statistical and deep learning approaches. We look at techniques such as data assimilation, learn parameters of mechanistic models using statistical methods, regularizing statistical learning algorithms with mechanistic priors. We also touch upon wisdom of crowds and finally using ensembles of models that typically provide robust results in practice.  This section will be structured as follows: (1) Mechanistic model with statistical components; (2) Priors from mechanistic models inform statistical model; (3) Wisdom of crowds.
 
-5. **Epidemic forecasting in practice. **
+5. **Epidemic forecasting in practice.**
 We discuss various important collaborative initiatives to further research and practice of epidemic forecasting that are headed by national agencies like CDC and IARPA. We discuss the important challenges encountered during real-time deployment of these models and methodological solutions to these challenges by top-performing models. Finally, look at recent works that try to inculcate decision making with forecasting to aid in better long-term strategic and short-term tactical interventions in face of uncertainty for various applications from public health to supply chain management. This section will be structured as follows: (1) Collaborative initiatives; (2) Real-time Deployment Experiences; (3) Bridging forecasting with decision making.
 
 6. **Closing remarks**
