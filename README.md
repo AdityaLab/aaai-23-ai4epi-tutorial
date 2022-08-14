@@ -2,7 +2,7 @@
 
 Survey paper companion: [PDF](https://arxiv.org/abs/2207.09370)
 
-Slides PART 1: [PDF](https://github.com/AdityaLab/kdd-22-epi-tutorial/blob/main/part1.pdf)
+Slides PART 1: [PDF](https://github.com/AdityaLab/kdd-22-epi-tutorial/blob/main/Part1.pdf)
 
 Slides PART 2: [PDF](https://github.com/AdityaLab/kdd-22-epi-tutorial/blob/main/part2.pdf)
 
