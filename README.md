@@ -4,7 +4,7 @@ Survey paper companion: [PDF](https://arxiv.org/abs/2207.09370)
 
 Slides: [PDF](https://github.com/AdityaLab/aaai-23-ai4epi-tutorial/blob/main/23-02-07-aaai-tutorial-data-centric-epi-forecasting%20-%20ALL.pdf)
 
-Website: [adityalab.cc.gatech.edu/talks/aaai-23-ai4epi-tutorial.html](https://adityalab.cc.gatech.edu/talks/aaai-23-ai4epi-tutorial.html)
+Website: [github.com/AdityaLab/aaai-23-ai4epi-tutorial](https://github.com/AdityaLab/aaai-23-ai4epi-tutorial)
 
 Exit survey: [forms.gle/bvB8K1KwTo9knQUt5](https://forms.gle/bvB8K1KwTo9knQUt5)
 
@@ -51,7 +51,7 @@ If you find our work useful, please cite our work:
 ```
 @article{rodriguez2022data,
   title={Data-centric epidemic forecasting: A survey},
-  author={Rodr{\'\i}guez, Alexander and Kamarthi, Harshavardhan and Agarwal, Pulak and Ho, Javen and Patel, Mira and Sapre, Suchet and Prakash, B Aditya},
+  author={Rodr{'\i}guez, Alexander and Kamarthi, Harshavardhan and Agarwal, Pulak and Ho, Javen and Patel, Mira and Sapre, Suchet and Prakash, B Aditya},
   journal={arXiv preprint arXiv:2207.09370},
   year={2022}
 }
