@@ -16,3 +16,6 @@
 [submodule "OurModels/EINNs"]
 	path = OurModels/EINNs
 	url = https://github.com/AdityaLab/EINNs.git
+[submodule "OurModels/Profhit"]
+	path = OurModels/Profhit
+	url = https://github.com/AdityaLab/Profhit.git
