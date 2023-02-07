@@ -2,7 +2,7 @@
 
 Survey paper companion: [PDF](https://arxiv.org/abs/2207.09370)
 
-Slides: [PDF](https://github.com/AdityaLab/aaai-23-ai4epi-tutorial/blob/main/AAAI_ai4epi_tutorial_slides.pdf)
+Slides: [PDF](https://github.com/AdityaLab/aaai-23-ai4epi-tutorial/blob/main/23-02-07-aaai-tutorial-data-centric-epi-forecasting%20-%20ALL.pdf)
 
 Website: [adityalab.cc.gatech.edu/talks/aaai-23-ai4epi-tutorial.html](https://adityalab.cc.gatech.edu/talks/aaai-23-ai4epi-tutorial.html)
 
