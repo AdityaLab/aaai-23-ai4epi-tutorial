@@ -1,6 +1,6 @@
 # AAAI-23 Tutorial: AI for Data-Centric Epidemic Forecasting 
 
-By Alexander Rodríguez, Harshavardhan Kamarthi, B. Aditya Prakash from College of Computing at the Georgia Institute of Technology.
+By Alexander Rodríguez, Harshavardhan Kamarthi, and B. Aditya Prakash from College of Computing at the Georgia Institute of Technology.
 
 Survey paper companion: [PDF](https://arxiv.org/abs/2207.09370)
 
